@@ -1,3 +1,8 @@
+# Integrantes: 
+
+    Francisco Di Vito, email: frandivito94@hotmail.com y Joel Kiehr, email: shoulkiehr@outlook.com
+
+
 # API LIBROS
 
 Endpoint de la API : http://localhost/TPEAPI/api/libros
